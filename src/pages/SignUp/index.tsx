@@ -1,12 +1,8 @@
 import {StyleSheet, View, Image, TouchableOpacity} from 'react-native';
 import React from 'react';
 import Header from '../../components/molecules/Header';
-<<<<<<< HEAD
-
 import Button from '../../components/atoms/Button';
-=======
 import TextInput from '../../components/molecules/TextInput';
->>>>>>> e10326f098826fb6f3ec49029c4d6cfee3be6df2
 import Gap from '../../components/atoms/Gap';
 
 // === Irmando: Header dan Foto Profil === //
